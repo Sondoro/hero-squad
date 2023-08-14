@@ -1,6 +1,8 @@
-Project Name: Hero Squad
+Project Name: 
+Hero Squad
 
-Author: Simon Ondoro
+Author: 
+Simon Ondoro
 
 Project Description:
 A fun game app allowing recruitment of a balanced superhero squad based on their strengths while also considering their weaknesses. The superheroes are of different ages, coming together to fight for various worthy causes to ensure the world continues to be a great place to live.
